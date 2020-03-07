@@ -1,6 +1,6 @@
 #include<stdio.h>
-int main()
-//我的第一个测试程序git
+int main(void)
+//鎴戠殑绗竴涓祴璇曠▼搴廹it
 {
 	printf("hello world");
 	retrun 0;
